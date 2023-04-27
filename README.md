@@ -1,5 +1,4 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Adel Hani Saeed's profile!
@@ -12,7 +11,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 - 🏢 I'm a Embedded Software Engineer
 - 👨‍💻 As a HTI student, I'm constantly learning and exploring new technologies to improve my skills.
