@@ -34,10 +34,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=Cplusplus)&nbsp;
 
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adel-Hani-Saaed&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" width="300" 
-     height="200"  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Hani-Saaed&layout=compact)
 <br>
 <a href="https://komarev.com/ghpvc/?username=Adel-Hani-Saaed&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Adel-Hani-Saaed&style=for-the-badge">
