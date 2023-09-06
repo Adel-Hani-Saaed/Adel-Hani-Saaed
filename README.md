@@ -36,7 +36,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adel-Hani-Saaed&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adel-Hani-Saaed&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" width="300" 
+     height="200"  />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Adel-Hani-Saaed&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Adel-Hani-Saaed&style=for-the-badge">
